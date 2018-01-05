@@ -1,0 +1,17 @@
+@media screen {
+
+html {
+  background: #eee;
+}
+
+body {
+  background: #fff;
+}
+
+}
+
+@media print {
+  body {
+  
+  }
+}
